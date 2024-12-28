@@ -1,4 +1,4 @@
-# 💳 State Bank of India Banking System 🏦
+# 💳 Console Based Banking System 🏦
 
 Welcome to the **State Bank of India Banking System**, a Python-based application that simulates basic banking operations such as account creation, deposit, withdrawal, and account display using CSV file storage. 📁
 
