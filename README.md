@@ -75,21 +75,6 @@ python banking_system.py
 - ✅ **PIN-based authentication** for account creation.
 - ✅ **Data stored locally**, reducing exposure to online threats.
 
-## 🖼️ Sample Output
-### Main Menu
-**************************** Welcome to State Bank of India *************************************
-1. Open Bank Account.
-2. Display Bank Accounts.
-3. Deposit Money.
-4. Withdraw Money.
-5. Exit.
-Enter your Choice: 
-## Accounts Displayed
-**Displaying All Accounts**
-   AccountNumber  FirstName  LastName  AadharNumber   Pin  Balance
-0              1       John      Doe     123456789   123     5000
-----------------------------------
-
 
 ## 🌟 Future Enhancements
 - 🔒 **PIN-based login** for transactions.
