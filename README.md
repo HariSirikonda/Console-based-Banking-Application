@@ -85,7 +85,7 @@ python banking_system.py
 5. Exit.
 Enter your Choice: 
 ## Accounts Displayed
---- Displaying All Accounts ---
+**Displaying All Accounts**
    AccountNumber  FirstName  LastName  AadharNumber   Pin  Balance
 0              1       John      Doe     123456789   123     5000
 ----------------------------------
