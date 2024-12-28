@@ -78,11 +78,11 @@ python banking_system.py
 ## 🖼️ Sample Output
 ### Main Menu
 **************************** Welcome to State Bank of India *************************************
-    1. Open Bank Account.
-    2. Display Bank Accounts.
-    3. Deposit Money.
-    4. Withdraw Money.
-    5. Exit.
+1. Open Bank Account.
+2. Display Bank Accounts.
+3. Deposit Money.
+4. Withdraw Money.
+5. Exit.
 Enter your Choice: 
 ## Accounts Displayed
 --- Displaying All Accounts ---
