@@ -24,3 +24,9 @@ Before running the project, ensure the following are installed:
 Install dependencies using:
 ```bash
 pip install pandas
+
+## 🚀 Getting Started
+1. Clone the Repository:
+```bash
+git clone <repository-url>
+cd <repository-folder>
