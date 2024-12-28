@@ -75,7 +75,7 @@ class Account:
 
 
 # Main
-print("\n**************************** Welcome to State Bank of India *************************************")
+print("\n**************************** Welcome to Console Based Banking System *************************************")
 choice = 0
 obj = Account()
 while True:
